@@ -1,4 +1,61 @@
+.container{
+    background-color: rosybrown;
+    margin-right: 70%;
+    padding:30px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+#rules{
+    background-color: rgb(74, 190, 206);
+    margin-right: 70%;
+    padding: 30px;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#winsLoses{
+    background-color: rgb(57, 87, 70);
+    padding: 30px;
+    font-size: 18px;
+    margin-right: 70%;
+    margin-bottom: 25px;
+}
+
+#counter{
+    background-color: rgb(87, 27, 99);
+    padding: 30px;
+    margin-right: 70%;
+    margin-bottom: 25px;
+    font-size: 18px;
+}
+
+#total{
+    background-color: rgb(161, 56, 56);
+    padding: 30px;
+    margin-right: 70%;
+    margin-bottom: 25px;
+    font-size: 18px;
+}
+
+#count{
+    background-color: rgb(201, 184, 142);
+    padding: 30px;
+    margin-right: 70%;
+    margin-bottom: 25px;
+    font-size: 18px;
+}
+
 img{
     width: 150px;
     height: 150px;
+}
+
+body{
+    margin: 0 auto;
 }
