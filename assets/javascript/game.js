@@ -7,14 +7,7 @@
 $(document).ready(function() {
 
 
-//at random math counter
-let counter = Math.floor(Math.random() * 101 + 19);
-let randNum1 = Math.floor(Math.random() * 11 + 1);
-let randNum2 = Math.floor(Math.random() * 11 + 1);
-let randNum3 = Math.floor(Math.random() * 11 + 1);
-let randNum4 = Math.floor(Math.random() * 11 + 1);
 
-}
 
 let total = 0;
 let wins = 0;
@@ -36,5 +29,4 @@ $("#dany").on("click", function () {
 })
 
 $("tyrion").on("click", function () {
-    
-})
+}
