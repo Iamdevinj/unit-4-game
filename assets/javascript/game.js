@@ -29,4 +29,4 @@ $("#dany").on("click", function () {
 })
 
 $("tyrion").on("click", function () {
-}
+})
