@@ -54,6 +54,7 @@ h2{
 img{
     width: 150px;
     height: 150px;
+    box-shadow: 5px 5px 5px;
 }
 
 body{
